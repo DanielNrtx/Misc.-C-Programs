@@ -1,0 +1,8 @@
+DNA sequence analysis :
+29782 nucleotides in the sequence
+
+Sequence breakdown:
+Adenine: 8892     29.86%
+Thymine: 9581     32.17%
+Cytosine: 5462    18.34%
+Guanine: 5847     19.63%
